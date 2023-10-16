@@ -1,2 +1,6 @@
 # mini-project-html-css
-A mini project using html and css
+Mini Project using HTML & CSS
+
+The whole layout is created using concepts of nested flexbox.
+
+
